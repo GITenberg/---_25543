@@ -1,0 +1,30 @@
+_repo: '---_25543'
+_version: 0.1.0
+alternative_title: Shen Lou Zhi
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Yulinglaoren, active 18th century
+    aliases:
+    - Yu-ling-lao-jen
+    - 庾嶺勞人
+    - Yü-ling-lao-jen
+    gutenberg_agent_id: '31410'
+    url: http://www.gutenberg.org/2009/agents/31410
+description: ''
+gutenberg_issued: '2008-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25543'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chinese fiction -- Qing dynasty, 1644-1912'
+- !lcc 'PL'
+- !lcsh 'Erotic stories, Chinese'
+title: 蜃樓志
+url: http://www.gutenberg.org/ebooks/25543
